@@ -1,0 +1,38 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+	background-image:url(../img/bg.jpeg);
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:cover;
+}
+
+.box{
+	width:100px;
+	height:100px;
+	background-color:#ebebd2;
+	float:left;
+	font-size:80px;
+}
+
+.box1{
+	width:100px;
+	height:100px;
+	background-color:#769358;
+	float:left;
+	font-size:80px;
+}
+
+.a {
+	clear:both;
+}
+
+.body{
+	height:800px;
+	width:800px;
+	border:25px groove #38729a;
+	margin-top:70px;
+}
